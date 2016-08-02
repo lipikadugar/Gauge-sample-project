@@ -1,0 +1,220 @@
+08:18:19.898 Initializing concepts cache with 0 concepts
+08:18:19.898 Watching directory: /Users/lipikad/MyProjects/GaugeSampleProject/specs
+08:18:19.898 Found 1 files
+08:18:19.904 Initializing specs cache with 1 specs
+08:18:19.904 Adding specs from /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+08:18:19.904 Initializing steps cache with 2 steps
+08:18:24.835 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+08:18:24.836 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+08:18:24.926 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+08:18:24.926 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+08:18:24.929 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+08:18:24.929 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+08:18:24.972 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say \"Hello\" to \"Lipika\"" hasInlineTable:false > 
+08:18:24.972 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > > 
+12:42:01.310 Spec file removed: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+12:42:01.311 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+12:42:21.546 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+12:42:21.547 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+12:42:22.534 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:42:22.534 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:42:22.535 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:42:22.535 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:42:22.808 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:42:22.808 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:42:22.809 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:42:22.809 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:42:22.968 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:42:22.968 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > > 
+12:42:22.968 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:42:22.968 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:42:23.106 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:42:23.106 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:42:23.106 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:42:23.106 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:42:23.409 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print" hasInlineTable:false > 
+12:42:23.409 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print" parameterizedStepValue:"Print" > > 
+12:43:17.787 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:43:17.787 Spec Parse failure: [[ParseError] /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec:1 Spec does not have any elements => '']
+12:43:17.788 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+12:44:19.465 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:44:19.466 Spec Parse failure: [[ParseError] /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec:1 Spec heading not found => '']
+12:44:19.467 Spec file removed: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:44:19.468 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:44:19.469 Spec Parse failure: [[ParseError] /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec:1 Spec does not have any elements => '']
+12:44:32.863 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:44:32.864 Spec file removed: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:44:32.864 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:44:40.119 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+12:44:53.718 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+12:44:53.719 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+12:44:58.385 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:44:58.385 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:44:58.386 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:44:58.386 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:44:58.741 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:44:58.741 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > > 
+12:44:58.741 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:44:58.741 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:44:58.898 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:44:58.898 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:44:58.898 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:44:58.898 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:44:59.010 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:44:59.010 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:44:59.011 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:44:59.011 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:44:59.649 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:44:59.649 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:44:59.649 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:44:59.649 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:44:59.809 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:44:59.809 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:44:59.809 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:44:59.809 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:44:59.899 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:44:59.899 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > > 
+12:44:59.899 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:44:59.899 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:00.058 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:45:00.058 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:45:00.058 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:45:00.058 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:00.180 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:45:00.180 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:45:00.180 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:45:00.180 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:00.668 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello" hasInlineTable:false > 
+12:45:00.668 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello" parameterizedStepValue:"Print Hello" > > 
+12:45:00.890 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:45:00.890 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:45:00.890 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:45:00.890 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:01.049 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:45:01.049 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > > 
+12:45:01.049 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:45:01.049 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:01.241 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:45:01.241 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:45:01.241 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:45:01.241 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:01.449 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:45:01.449 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:45:01.449 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:45:01.449 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:01.632 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+12:45:01.632 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > allSteps:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:45:01.632 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+12:45:01.632 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+12:45:01.934 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+12:45:01.934 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+12:45:01.934 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+12:45:01.935 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+12:58:36.227 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table" hasInlineTable:false > 
+12:58:36.227 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table" parameterizedStepValue:"Step that takes a table" > > 
+12:58:58.596 Spec file removed: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+12:58:58.596 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+537 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+12:47:05.538 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+12:47:05.538 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+12:47:05.538 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+12:47:05.538 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+12:52:53.170 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+12:52:53.171 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:52:53.174 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+12:52:53.174 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+12:52:53.174 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+12:52:53.174 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+12:52:53.175 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+12:52:53.175 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+12:53:23.555 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+12:53:23.556 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:53:23.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+12:53:23.559 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+12:53:23.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+12:53:23.559 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+12:53:23.560 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+12:53:23.560 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+12:54:36.339 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+12:54:36.339 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:54:36.343 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+12:54:36.343 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+12:54:36.343 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+12:54:36.344 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+12:54:36.344 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+12:54:36.344 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+12:59:02.099 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+12:59:02.100 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+12:59:02.104 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+12:59:02.104 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+12:59:02.105 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+12:59:02.105 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+12:59:02.105 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+12:59:02.105 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:05:00.487 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+14:05:00.487 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+14:05:00.491 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+14:05:00.491 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+14:05:00.492 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+14:05:00.492 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+14:05:00.492 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:05:00.492 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+20:54:14.051 Initializing concepts cache with 0 concepts
+20:54:14.052 Watching directory: /Users/lipikad/MyProjects/GaugeSampleProject/specs
+20:54:14.053 Found 2 files
+20:54:14.054 Initializing specs cache with 2 specs
+20:54:14.054 Adding specs from /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+20:54:14.054 Adding specs from /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+20:54:14.054 Initializing steps cache with 3 steps
+20:54:26.397 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say \"Hello\" to \"Lipika\"" hasInlineTable:false > 
+20:54:26.397 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <Hello> to <Lipika>" parameters:"Hello" parameters:"Lipika" > > 
+20:54:27.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+20:54:27.314 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+20:54:27.316 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table" hasInlineTable:true > 
+20:54:27.317 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+20:54:29.230 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+20:54:29.231 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+20:54:29.243 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+20:54:29.243 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+20:54:29.244 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+20:54:29.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+20:54:29.244 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+20:54:29.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+20:54:47.605 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+20:54:47.605 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+20:54:47.648 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A context step which gets executed before every scenario" hasInlineTable:false > 
+20:54:47.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A context step which gets executed before every scenario" parameterizedStepValue:"A context step which gets executed before every scenario" > > 
+20:55:26.366 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/helloWorld.spec
+20:55:26.368 Spec file removed: /Users/lipikad/MyProjects/GaugeSampleProject/specs/TestHelloWorld.spec
+20:57:16.833 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table" hasInlineTable:false > 
+20:57:16.833 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table" parameterizedStepValue:"Step that takes a table" > > 
+20:57:38.816 Api Request Received: messageType:PerformRefactoringRequest messageId:7 performRefactoringRequest:<oldStep:"Step that takes a table <table>" newStep:"Greet to many people <table>" > 
+20:57:41.761 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step that takes a table <table>" hasInlineTable:false > 
+20:57:41.761 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step that takes a table {}" parameterizedStepValue:"Step that takes a table <table>" parameters:"table" > > 
+20:57:41.766 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+20:57:41.766 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+20:57:41.766 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+20:57:41.766 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+20:57:41.891 Refactoring result from gauge:
+Specs changed        : [/Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec]
+Concepts changed     : []
+Source files changed : [/Users/lipikad/MyProjects/GaugeSampleProject/src/test/java/steps/StepImplementation.java]
+Warnings             : []
+20:57:41.891 Sending API response: messageType:PerformRefactoringResponse messageId:7 performRefactoringResponse:<success:true filesChanged:"/Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec" filesChanged:"/Users/lipikad/MyProjects/GaugeSampleProject/src/test/java/steps/StepImplementation.java" > 
+20:57:42.290 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Greet to many people" hasInlineTable:true > 
+20:57:42.291 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Greet to many people {}" parameterizedStepValue:"Greet to many people <table>" parameters:"table" > > 
+20:58:10.907 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+20:58:10.909 Spec file removed: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+20:58:10.909 Spec file added / modified: /Users/lipikad/MyProjects/GaugeSampleProject/specs/greet.spec
+20:59:15.451 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Greet to many people <table>" hasInlineTable:false > 
+20:59:15.451 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Greet to many people {}" parameterizedStepValue:"Greet to many people <table>" parameters:"table" > > 
+20:59:15.455 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+20:59:15.455 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+20:59:15.455 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+20:59:15.455 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+21:00:27.276 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Greet to many people <table>" hasInlineTable:false > 
+21:00:27.277 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Greet to many people {}" parameterizedStepValue:"Greet to many people <table>" parameters:"table" > > 
+21:00:27.280 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Print Hello World" hasInlineTable:false > 
+21:00:27.280 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Print Hello World" parameterizedStepValue:"Print Hello World" > > 
+21:00:27.281 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+21:00:27.281 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 

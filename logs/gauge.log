@@ -1,0 +1,146 @@
+21:36:07.725 Checking updates...
+21:36:32.736 Runner connection error: Timed out connecting to [::]:62670
+21:36:32.736 Error while killing runner: os: process already finished
+21:36:32.736 Failed to start gauge API: Timed out connecting to [::]:62670
+21:40:21.114  create  manifest.json
+21:40:21.114  skip  manifest.json
+21:40:21.114  create  specs
+21:40:21.114  skip  specs
+21:40:21.114 Failed to initialize project. Failed to find the skeleton file: example.spec
+21:40:40.484 Checking updates...
+21:41:18.787 Gathering metadata for java
+21:41:18.787 Failed to install plugin 'java'.
+Reason: Could not construct plugin install json file URL. Could not find gauge repository url from configuration.
+08:18:24.408 Got a kill message. Killing runner.
+08:18:28.416 Killing runner with PID:92707 forcefully
+08:19:28.282 Checking updates...
+08:19:57.055 Runner connection error: Timed out connecting to [::]:64989
+08:19:57.055 Error while killing runner: os: process already finished
+08:19:57.055 Failed to start gauge API: Timed out connecting to [::]:64989
+08:20:12.498 Checking updates...
+08:20:18.785 # Spec Example
+08:20:18.786 ## Greet Hello
+08:20:18.787 * Say "Hello" to "Lipika"
+08:20:18.794 * Step that takes a table 
+
+     |Product     |Description    |
+     |------------|---------------|
+     |Laptop      |Apple          |
+     |Test Product|Test Desciption|
+08:20:19.009 Plugin [Html Report] with pid [92874] has exited
+08:20:19.319 Specifications:	1 executed	1 passed	0 failed	0 skipped
+08:20:19.319 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+08:20:19.319 
+Total time taken: 3.687s
+12:35:28.585 Checking updates...
+12:35:57.320 Runner connection error: Timed out connecting to [::]:57686
+12:35:57.320 Error while killing runner: os: process already finished
+12:35:57.320 Failed to start gauge API: Timed out connecting to [::]:57686
+12:47:03.165 Checking updates...
+12:47:08.199 # Hello World Example
+12:47:08.200 ## Print Hello World
+12:47:08.200 * Print Hello World
+12:47:08.319 Plugin [Html Report] with pid [5756] has exited
+12:47:08.734 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:47:08.734 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:47:08.734 
+Total time taken: 2.635s
+12:52:50.885 Checking updates...
+12:52:53.228 # Hello World Example
+12:52:53.229 ## Print Hello World
+12:52:53.230 * Print Hello World
+12:52:53.339 Plugin [Html Report] with pid [5902] has exited
+12:52:53.340 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:52:53.340 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:52:53.340 
+Total time taken: 18ms
+12:53:21.346 Checking updates...
+12:53:25.756 # Hello World Example
+12:53:25.757 ## Print Hello World
+12:53:25.757 * Print Hello World
+12:53:25.875 Plugin [Html Report] with pid [5919] has exited
+12:53:26.187 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:53:26.187 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:53:26.187 
+Total time taken: 2.167s
+12:54:34.218 Checking updates...
+12:54:38.397 # Hello World Example
+12:54:38.397 ## Print Hello World
+12:54:38.398 * Print Hello World
+12:54:38.516 Plugin [Html Report] with pid [5954] has exited
+12:54:38.830 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:54:38.830 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:54:38.830 
+Total time taken: 2.027s
+12:58:59.829 Checking updates...
+12:59:04.202 # Spec Example
+12:59:04.203 ## Greet Hello
+12:59:04.203 * Say "Hello" to "Lipika"
+12:59:04.210 * Step that takes a table 
+
+     |Product     |Description    |Price|
+     |------------|---------------|-----|
+     |Laptop      |Apple          |     |
+     |Test Product|Test Desciption|     |
+12:59:04.323 Plugin [Html Report] with pid [6064] has exited
+12:59:04.633 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:59:04.633 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:59:04.633 
+Total time taken: 2.066s
+14:05:00.549 # Hello World Example
+14:05:00.550 ## Print Hello World
+14:05:00.551 * Print Hello World
+14:05:00.556 # Spec Example
+14:05:00.556 Checking updates...
+14:05:00.556 ## Greet Hello
+14:05:00.557 * Say "Hello" to "Lipika"
+14:05:00.561 * Step that takes a table 
+
+     |Product     |Description    |
+     |------------|---------------|
+     |Laptop      |Apple          |
+     |Test Product|Test Desciption|
+14:05:00.668 Plugin [Html Report] with pid [7103] has exited
+14:05:00.772 Specifications:	2 executed	2 passed	0 failed	0 skipped
+14:05:00.772 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+14:05:00.772 
+Total time taken: 28ms
+20:54:18.501 Got a kill message. Killing runner.
+20:54:22.507 Killing runner with PID:9299 forcefully
+20:59:14.853 Checking updates...
+20:59:15.599 # Spec Example
+20:59:15.600 ## Greet Hello
+20:59:15.601 * Say "Hello" to "Lipika"
+20:59:15.609 * Greet to many people 
+
+     |Greeting|Person |
+     |--------|-------|
+     |Hey!    |Anna   |
+     |Namaste!|Gayatri|
+20:59:15.613 # Hello World Example
+20:59:15.614 ## Print Hello World
+20:59:15.614 * Print Hello World
+20:59:15.721 Plugin [Html Report] with pid [9470] has exited
+20:59:15.721 Specifications:	2 executed	2 passed	0 failed	0 skipped
+20:59:15.721 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+20:59:15.721 
+Total time taken: 115ms
+20:59:15.721 Updates are available. Run gauge --check-updates for more info.
+21:00:27.251 Checking updates...
+21:00:27.334 # Spec Example
+21:00:27.335 ## Greet Hello
+21:00:27.335 * Say "Hello" to "Lipika"
+21:00:27.342 * Greet to many people 
+
+     |Greeting|Person |
+     |--------|-------|
+     |Hey!    |Anna   |
+     |Namaste!|Gayatri|
+21:00:27.346 # Hello World Example
+21:00:27.347 ## Print Hello World
+21:00:27.347 * Print Hello World
+21:00:27.453 Plugin [Html Report] with pid [9802] has exited
+21:00:27.557 Specifications:	2 executed	2 passed	0 failed	0 skipped
+21:00:27.557 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+21:00:27.558 
+Total time taken: 24ms
